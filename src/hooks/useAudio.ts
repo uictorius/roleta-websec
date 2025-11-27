@@ -154,7 +154,7 @@ export function useAudio() {
       { freq: 783.99, time: 0.3 },  // G5
     ];
     
-    notes.forEach((note, index) => {
+    notes.forEach((note) => {
       const oscillator = ctx.createOscillator();
       const gain = ctx.createGain();
       
