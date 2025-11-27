@@ -2,6 +2,14 @@
 
 Ferramenta de moderação interativa com roleta aleatória para seleção de participantes e aplicação de punições.
 
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/uictorius/roleta-websec/deploy.yml?branch=main&label=Build&logo=github)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg?logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg?logo=typescript)
+![React](https://img.shields.io/badge/React-19.2-blue.svg?logo=react)
+![Vite](https://img.shields.io/badge/Vite-7.2-646CFF.svg?logo=vite)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success.svg?logo=github)
+
 **🌐 Site**: [https://uictorius.github.io/roleta-websec/](https://uictorius.github.io/roleta-websec/)  
 **📦 Repositório**: [https://github.com/uictorius/roleta-websec](https://github.com/uictorius/roleta-websec)
 
@@ -190,7 +198,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## 📄 Licença
 
-Este projeto está sob a licença especificada no arquivo LICENSE.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
